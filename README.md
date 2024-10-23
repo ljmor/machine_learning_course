@@ -11,18 +11,27 @@ by Santiago Hernández [Course link](https://www.udemy.com/course/machine-learni
 ### 2. Logistic Regression:
 - Predict if an email must be classified as SPAM or HAM.
 
-### 3. Data Visualization & Analysis:
-- Process of data analysis and select the best attributes for a better training process.
+### 3. Data Manipulation:
+- Process of data analysis, dataset partitioning and data cleaning.
+
+    * **Data visualization-analysis**: Learn the data and select the best attributes for a better training process. 
+    * **Dataset partitioning**: Split the dataset on 3 sub-datasets (training, validation, test)
+    to get the necessary data to test and improve our model.
+    * **Data cleaning**: Best techniques to clean null values, transform categoric values into
+    numeric values and scaling numeric values.
 
 
 
 ## Path distribution
 
     ├── DataVisualization
-    │   ├── data
-    │   └── Visualizacion-ConjuntoDatos.ipynb
+    │   └── 01-Visualizacion-ConjuntoDatos.ipynb
+    │   └── 02-DivisionConjuntoDatos.ipynb
+    │   └── 03-Preprocesamiento-LimpiezaDatos.ipynb
+    |
     ├── RegresionLogistica
     │   └── RegresionLogistica-DeteccionSpam.ipynb
+    |
     ├── RegresionLineal
     │   └── RegresionLineal-CosteIncidenteSeguridad.ipynb
     
