@@ -19,6 +19,10 @@ by Santiago Hernández [Course link](https://www.udemy.com/course/machine-learni
     to get the necessary data to test and improve our model.
     * **Data cleaning**: Best techniques to clean null values, transform categoric values into
     numeric values and scaling numeric values.
+    * **Transforms & Pipelines**: The creation of personalizated transforms and
+    aplication of pipelines to reuse code and make more efficient our prepocessing phase. 
+    * **Model evaluation**: Evaluate de accuracy of our model through diverse numeric and
+    graphic methods.
 
 
 
@@ -28,6 +32,8 @@ by Santiago Hernández [Course link](https://www.udemy.com/course/machine-learni
     │   └── 01-Visualizacion-ConjuntoDatos.ipynb
     │   └── 02-DivisionConjuntoDatos.ipynb
     │   └── 03-Preprocesamiento-LimpiezaDatos.ipynb
+    │   └── 04-PipelinesTransformadores.ipynb
+    │   └── 05-EvaluarResultados.ipynb
     |
     ├── RegresionLogistica
     │   └── RegresionLogistica-DeteccionSpam.ipynb
