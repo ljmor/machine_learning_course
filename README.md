@@ -24,6 +24,13 @@ by Santiago Hernández [Course link](https://www.udemy.com/course/machine-learni
     * **Model evaluation**: Evaluate de accuracy of our model through diverse numeric and
     graphic methods.
 
+### 4. SVM
+- Suport Vector Machine algorithm applied to the dataset *Benigns and Malicious URLs*, the algorithm has 3 sub-algorithms:
+
+    * **Soft Margin Classification**
+    * **Polinomial Regression Kernel**
+    * **Gaussian Kernel**
+
 
 
 ## Path distribution
@@ -40,4 +47,7 @@ by Santiago Hernández [Course link](https://www.udemy.com/course/machine-learni
     |
     ├── RegresionLineal
     │   └── RegresionLineal-CosteIncidenteSeguridad.ipynb
+    |
+    ├── SVM
+    │   └── SupportVectorMachine.ipynb
     
