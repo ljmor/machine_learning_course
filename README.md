@@ -31,6 +31,10 @@ by Santiago Hernández [Course link](https://www.udemy.com/course/machine-learni
     * **Polinomial Regression Kernel**
     * **Gaussian Kernel**
 
+### 5. Desicion Trees & Random Forests
+- The algorithm of decision trees applied to the *Android Malware* dataset and 
+we can compare de difference between fit a unique decision tree model or apply
+the random forest technique.
 
 
 ## Path distribution
@@ -50,4 +54,8 @@ by Santiago Hernández [Course link](https://www.udemy.com/course/machine-learni
     |
     ├── SVM
     │   └── SupportVectorMachine.ipynb
+    |
+    ├── ArbolesDecision
+    │   └── 01-ArbolesDecision.ipynb
+    │   └── 02-ArbolesDecision-RandomForests.ipynb
     
