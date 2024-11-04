@@ -36,6 +36,24 @@ by Santiago Hernández [Course link](https://www.udemy.com/course/machine-learni
 we can compare de difference between fit a unique decision tree model or apply
 the random forest technique.
 
+### 6. Model & Features Selection
+- Processes and techniques used to select the best hiper-parameters for the 
+models and techniques to extract and select most relevant features.
+
+    * **RandomizedSearchCV**: To select the best hiper-parameters for a 
+    specific model.
+    * **RandomForest & Correlation Index**: To select the most relevant input
+    features of the dataset.
+    * **PCA**: To reduce and transform the dataset into a most simplified dataset
+    most light fot our model.
+
+### 7. Clustering
+- Diverse algorithms of clustering based on non supervised learning for data
+agrupation prorposes.
+
+    * KMEANS
+    * DBSCAN
+
 
 ## Path distribution
 
@@ -58,4 +76,13 @@ the random forest technique.
     ├── ArbolesDecision
     │   └── 01-ArbolesDecision.ipynb
     │   └── 02-ArbolesDecision-RandomForests.ipynb
+    |
+    ├── SeleccionExtraccion-Caracteristicas
+    │   └── 01-SeleccionModelo.ipynb
+    │   └── 02-SeleccionarCaracteristicas.ipynb
+    │   └── 03-ExtraccionCaracteristicas.ipynb
+    |
+    ├── Clustering
+    │   └── DBSCAN.ipynb
+    │   └── KMEANS.ipynb
     
