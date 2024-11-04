@@ -1,4 +1,4 @@
-# Machine learning Practices examples by Santiago Hernández Machine Learning Course in Udemy
+# Machine learning Practice examples by Udemy Machine Learning Course
 
 All the examples that I developed based on the Udemy course about Machine Learning
 by Santiago Hernández [Course link](https://www.udemy.com/course/machine-learning-desde-cero/) 
