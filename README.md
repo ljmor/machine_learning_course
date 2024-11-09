@@ -1,4 +1,4 @@
-# Machine learning Practice examples by Udemy Machine Learning Course
+# Machine Learning Practice Examples
 
 All the examples that I developed based on the Udemy course about Machine Learning
 by Santiago Hernández [Course link](https://www.udemy.com/course/machine-learning-desde-cero/) 
@@ -51,8 +51,19 @@ models and techniques to extract and select most relevant features.
 - Diverse algorithms of clustering based on non supervised learning for data
 agrupation prorposes.
 
-    * KMEANS
-    * DBSCAN
+    * **KMEANS**
+    * **DBSCAN**
+
+### 8. Naive Bayes
+- Naive Bayes algorithm applied to a *fraudulent/legit* bank transactions
+dataset.
+
+### 9. Anomaly Detection
+- The two algorithms used to detect the presence of anormal values
+on a dataset.
+
+    * **Gaussian distribution**
+    * **Isolation Forest**
 
 
 ## Path distribution
@@ -85,4 +96,10 @@ agrupation prorposes.
     ├── Clustering
     │   └── DBSCAN.ipynb
     │   └── KMEANS.ipynb
-    
+    |
+    ├── NaiveBayes
+    │   NaiveBayes.ipynb
+    |
+    ├── DeteccionAnomalias
+    │   └── DistribucionGaussiana.ipynb
+    │   └── IsolationForest.ipynb
