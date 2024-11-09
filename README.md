@@ -3,6 +3,12 @@
 All the examples that I developed based on the Udemy course about Machine Learning
 by Santiago Hernández [Course link](https://www.udemy.com/course/machine-learning-desde-cero/) 
 
+## Teoric Concepts Article (Spanish)
+Aricle with the explanation of the concepts behid this machine learning
+algorithms.
+
+[Medium Article](https://medium.com/@ljmor/algoritmos-de-machine-learning-c7662d64ab5a)
+
 ## Exercises
 
 ### 1. Lineal Regression:
